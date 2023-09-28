@@ -1,6 +1,6 @@
 # Event's Site
 
-This is a backe-end application that provides users with reliable, adequate, and up-to-date information about events and meetup places. This application also implements a rating and review system for suggested events, occasions, and meetups. Additionally, it offers a convenient ticket purchase system for events that require booking and purchasing tickets.
+This is a back-end application that provides users with reliable, adequate, and up-to-date information about events and meetup places. This application also implements a rating and review system for suggested events, occasions, and meetups. Additionally, it offers a convenient ticket purchase system for events that require booking and purchasing tickets.
  
 
 ## Key Features
@@ -24,7 +24,7 @@ This is a backe-end application that provides users with reliable, adequate, and
 
 ## Future Considerations
 
-We have plans for further improving and developing a front-end web application in the future:
+I have plans for further improving and developing a front-end web application in the future:
 
 - **Mobile App**: I envision converting the website into an Android application to reach a broader audience and provide a more seamless experience for users on mobile devices.
 
