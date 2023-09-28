@@ -54,17 +54,4 @@ if __name__ == '__main__':
     userA = User(name='Alvin')
     userB = User(name='Becky')
 
-    # event1 = Event(name='Event 1', location='Location 1')
-    # event2 = Event(name='Event 2', location='Location 2')
-
-    # review1 = Review(score=5)
-    # review2 = Review(score=4)
-
-    # userA.events.append(event1)
-    # userB.events.append(event2)
-
-    # event1.reviews.append(review1)
-    # event2.reviews.append(review2)
-
-    # session.add_all([userA, userB, event1, event2, review1, review2])
-    # session.commit()
+    
